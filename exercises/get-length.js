@@ -9,8 +9,8 @@
 
 // Your code :
 
-function getLength(){
-    return (getLength.length);
+function getLength(array){
+    return array.length;
 }
 
 //* Begin of tests
